@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">seekshakui</string>
+    <string name="econnrct">E-Connect with Tutor</string>
+    <string name="user_verifi">
+User Verified
+</string>
+    <string name="create_new_">
+Create New Password
+</string>
+    <string name="user_verified_image">User Verified Image</string>
+    <string name="checkmark_icon">Checkmark Icon</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">
+Submit
+</string>
+    <string name="password_should_be_at_least_15_characters_or_at_least_8_characters_including_a_number_and_a_lowercase_letter">Password should be at least 6 characters including a number and a Uppercase letter.</string>
+
+</resources>
