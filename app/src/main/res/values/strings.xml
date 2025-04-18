@@ -14,5 +14,7 @@ Create New Password
 Submit
 </string>
     <string name="password_should_be_at_least_15_characters_or_at_least_8_characters_including_a_number_and_a_lowercase_letter">Password should be at least 6 characters including a number and a Uppercase letter.</string>
-
+    <string name="enter_otp">
+Enter OTP
+</string>
 </resources>
